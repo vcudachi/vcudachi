@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a software engineer/architect in the field of digitalization, automation and informatization of corporate information and computing infrastructure and corporate data center.
+
+
 <!--
 **vcudachi/vcudachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
