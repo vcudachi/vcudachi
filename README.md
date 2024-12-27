@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I am a software engineer/architect in the field of digitalization, automation and informatization of corporate information and computing infrastructure and corporate data center.
+I am a software engineer/architect in the field of digitalization, automation and informatization of corporate information and computing infrastructure and corporate data center
 
+## Skills 
+### Development
+![Powershell](https://img.shields.io/badge/Powershell-F7DF1E?style=for-the-badge&logo=E3&logoColor=white)
 
 <!--
 **vcudachi/vcudachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
