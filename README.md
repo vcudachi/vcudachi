@@ -4,7 +4,7 @@ I am a software engineer/architect in the field of digitalization, automation an
 
 ## Skills 
 ### Development
-![Powershell](https://img.shields.io/badge/Powershell-F7DF1E?style=for-the-badge&logo=E3&logoColor=white)
+![Powershell](https://img.shields.io/badge/Powershell-28415d?style=for-the-badge&logoSize=auto&logoColor=white&logo=E3)
 
 <!--
 **vcudachi/vcudachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
