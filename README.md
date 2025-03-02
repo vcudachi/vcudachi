@@ -9,7 +9,7 @@ I am a software engineer at .
 ![Static Badge](https://img.shields.io/badge/Corporate_Information-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Computing_Infrastructure-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Corporate_Data_Center-gray?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/DevOps_Center-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/DevOps-gray?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/ETL-gray?style=for-the-badge)
 
 ## Development skills
