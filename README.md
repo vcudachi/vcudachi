@@ -34,6 +34,12 @@ I am a software engineer at .
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## AI Protocol
+- Modern AI is not intelligence
+- Critical attitude towards modern AI results
+- Unlimited learning of modern AI technology
+- Some tasks can be delegated to modern AI
+
 <!--
 **vcudachi/vcudachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
