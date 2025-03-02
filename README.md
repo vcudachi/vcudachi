@@ -4,6 +4,11 @@ I am a software engineer in the field of digitalization, automation and informat
 
 ## Field
 ![Static Badge](https://img.shields.io/badge/Automation-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Informatization-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Digitalization-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Corporate_Information-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Computing_infrastructure-gray?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Corparate_Data_Center-gray?style=for-the-badge)
 
 ## Development skills
 ![Powershell](https://img.shields.io/badge/Powershell-28415d?style=for-the-badge&logoSize=auto&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UG93ZXJTaGVsbCBpY29uPC90aXRsZT48cGF0aCBkPSJNMjMuMTgxIDMuMDc3Yy41NjggMCAuOTIzLjQ2My43OTIgMS4wMzVsLTMuNjU5IDE1Ljk4MWMtLjEzLjU3Mi0uNjk3IDEuMDM1LTEuMjY1IDEuMDM1SC44MTljLS41NjggMC0uOTIzLS40NjMtLjc5Mi0xLjAzNUwzLjY4NiA0LjExMmMuMTMtLjU3Mi42OTctMS4wMzUgMS4yNjUtMS4wMzVoMTguMjN6bS04LjM3NSA5LjM0NWMuMjUxLS4zOTQuMjI3LS45MDUtLjA5LTEuMjQzTDkuMTIyIDUuMjI4Yy0uMzgtLjQwNS0xLjAzNy0uNDA3LTEuNDY2LS4wMDQtLjQyOS40MDMtLjQ2OCAxLjA1Ny0uMDg4IDEuNDYxbDQuNjYyIDQuOTZ2LjExbC03LjQyIDUuMzczYy0uNDUuMzI3LS41MzMuOTc3LS4xODcgMS40NTMuMzQ2LjQ3Ni45OTEuNTk3IDEuNDQuMjdsOC4yMjktNS45MDljLjI4LS4xOTcuNDM4LS4zNjYuNTE0LS41MnptLTIuNzk2IDQuMzk5YS45MjguOTI4IDAgMCAwLS45MzQuOTIzYzAgLjUxLjQxOC45MjMuOTM0LjkyM2g0LjQzM2EuOTI4LjkyOCAwIDAgMCAuOTM0LS45MjMuOTI4LjkyOCAwIDAgMC0uOTM0LS45MjNIMTIuMDF6Ii8+PC9zdmc+)
