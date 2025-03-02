@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software engineer/architect in the field of digitalization, automation and informatization of corporate information and computing infrastructure and corporate data center
+I am a software engineer in the field of digitalization, automation and informatization of corporate information and computing infrastructure and corporate data center
 
 ## Skills 
 ### Development
@@ -9,7 +9,7 @@ I am a software engineer/architect in the field of digitalization, automation an
 ![C#](https://img.shields.io/badge/C%23-C%20Sharp-963aae?style=for-the-badge&labelColor=963aae&color=963aae)
 ![MSSQL](https://img.shields.io/badge/SQL-MS%20SQL-white?style=for-the-badge&labelColor=white&color=white)
 ![pgsql](https://img.shields.io/badge/PG%20SQL-2f6693?style=for-the-badge&logo=PostgreSQL&logoSize=auto&logoColor=white&labelColor=2f6693&color=2f6693)
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <!--
 **vcudachi/vcudachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
