@@ -10,7 +10,7 @@ I am a software engineer in the field of digitalization, automation and informat
 ![.NET](https://img.shields.io/badge/dotnet-502ad4?style=for-the-badge&logo=.NET&logoSize=auto&labelColor=502ad4&color=502ad4)
 ![C#](https://img.shields.io/badge/C%23-C%20Sharp-963aae?style=for-the-badge&labelColor=963aae&color=963aae)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MSSQL](https://img.shields.io/badge/SQL-MS%20SQL-F0F0F0?style=for-the-badge&labelColor=f0f0f0&color=white)
+![MSSQL](https://img.shields.io/badge/SQL-MS%20SQL-F0F0F0?style=for-the-badge&labelColor=f0f0f0&color=f0f0f0)
 ![pgsql](https://img.shields.io/badge/PG%20SQL-2f6693?style=for-the-badge&logo=PostgreSQL&logoSize=auto&logoColor=white&labelColor=2f6693&color=2f6693)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
